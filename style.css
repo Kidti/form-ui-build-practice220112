@@ -147,7 +147,7 @@ textarea {
         margin-left: 0;
     }
     svg{
-        position: absolute;
+        position: relative;
         margin: 30% 85%;
     }
 }
